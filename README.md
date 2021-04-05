@@ -7,7 +7,7 @@ Este Github é dedicado ao desafio da Wildlife do BRASAHacks 2021. O objetivo é
 
 ## Ficha Tecnica:
 * Nome: Pingu
-* Plataforma: Android
+* Plataforma: [Disponivel para jogar no Android](https://drive.google.com/file/d/1tHoxDRxQ4Q80iXqVGi8rGbmVWqZw-9g_/view?usp=sharing)
 * Gênero: Corrida
 * Sub-Genero: Endless Runner
 * Ano produção: 2021
