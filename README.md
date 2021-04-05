@@ -1,10 +1,16 @@
 # PINGU
 
+### Requerimentos
+   - Unity 3D 2018
+
 ## Ficha Tecnica:
 * Nome: Pingu
 * Plataforma: Android
 * Gênero: Corrida
 * Sub-Genero: Endless Runner
+* Ano produção: 2021
+* Classificação: Livre
+* País de origem: Brasil
 
 Este Github é dedicado ao desafio da Wildlife do BRASAHacks 2021. O objetivo é recriar um jogo que marcou nossa infância com um toque pessoal do time. Esse README explica o problema que estamos abordando, nossa solução, detalhes do código do game e possíveis próximos passos.
 
@@ -23,10 +29,6 @@ Este Github é dedicado ao desafio da Wildlife do BRASAHacks 2021. O objetivo é
 
 ## Sistema de pontuação jogo
 * O sistema de pontuação é através de moedas de ouro, prata e bronze. No qual o personagem tem que coletar elas e cada uma tem um peso
-
-## Código
-### Requerimentos
-   - Unity 3D 2018
 
 ## RoadMap
    Pingu em uma versão 2.0 terá uma loja que venderá produtos com parceria de marcas globais, sendo elas no segmento de vestuário e bebidas não alcoólicas. Além disso, contaremos com endomarketing para alavancar outros jogos da Wildlife como: Zooba, Suspects e Tennis Clash.  
