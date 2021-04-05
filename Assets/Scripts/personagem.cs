@@ -18,6 +18,8 @@ public class personagem : MonoBehaviour
 
    bool isNoChao;
    public Button pular;
+
+   public Canvas paginaReniciar;
    void tela()
    {
       pulo = 1;
@@ -93,6 +95,8 @@ public class personagem : MonoBehaviour
    }
    void finalizaFase(Collider other)
    {
+      Destroy(other.gameObject);
+      paginaReniciar.enabled = true;
       Time.timeScale = 0;
 
    }

@@ -4,10 +4,6 @@ using UnityEngine;
 
 public class DestroiObjetos : MonoBehaviour
 {
-    void Start()
-    {
-        
-    }
     void OnTriggerEnter(Collider other)
     {
         Destroy(other.gameObject);

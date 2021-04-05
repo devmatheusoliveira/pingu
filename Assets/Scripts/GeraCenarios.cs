@@ -52,7 +52,7 @@ public class GeraCenarios : MonoBehaviour
         {
             if(corAtual != cores[mudaCor])
             {
-                float tempo = 3f*Time.deltaTime;
+                float tempo = 6f*Time.deltaTime;
                 r = Mathf.SmoothStep(corAtual.r,cores[mudaCor].r, tempo);
                 g = Mathf.SmoothStep(corAtual.g,cores[mudaCor].g, tempo);
                 b = Mathf.SmoothStep(corAtual.b,cores[mudaCor].b, tempo);
