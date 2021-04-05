@@ -1,7 +1,7 @@
 # PINGU
 
 ### Requerimentos
-   - Unity 3D 2018
+   - Unity 3D 2018 ou superior.
 
 ## Ficha Tecnica:
 * Nome: Pingu
