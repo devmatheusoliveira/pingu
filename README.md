@@ -1,5 +1,7 @@
 # PINGU
 
+Este Github é dedicado ao desafio da Wildlife do BRASAHacks 2021. O objetivo é recriar um jogo que marcou nossa infância com um toque pessoal do time. Esse README explica o problema que estamos abordando, nossa solução, detalhes do código do game e possíveis próximos passos.
+
 ### Requerimentos
    - Unity 3D 2018 ou superior.
 
@@ -11,8 +13,6 @@
 * Ano produção: 2021
 * Classificação: Livre
 * País de origem: Brasil
-
-Este Github é dedicado ao desafio da Wildlife do BRASAHacks 2021. O objetivo é recriar um jogo que marcou nossa infância com um toque pessoal do time. Esse README explica o problema que estamos abordando, nossa solução, detalhes do código do game e possíveis próximos passos.
 
 ## Problema
    O aquecimento global é o aumento da temperatura da Terra a partir do efeito estufa. Este é um processo natural, responsável por nivelar o calor do planeta, no entanto, devido às ações humanas, este processo está sendo acelerado por emissões de gases no ar, sendo as principais causas são a poluição, queimadas e o desmatamento.
