@@ -23,7 +23,7 @@ Este Github é dedicado ao desafio da Wildlife do BRASAHacks 2021. O objetivo é
 
 ## Solução
 
-   Nosso jogo portanto será um Endless Run de Pingu, um pinguim morador da Antártida. Ele está correndo contra o tempo pois seu objetivo é fugir das consequências do aquecimento global que estão acontecendo gradativamente no planeta. Pingu passa por quatro cenários que exemplificam as fases do efeito estufa no planeta, sendo a primeira na Antártida, a segunda em um ambiente florestal, a terceira em uma metrópole e por fim, a quarta um cenário que  está em ruínas.
+   Nosso jogo portanto será um Endless Run, chamado Pingu, um pinguim morador da Antártida. Ele está correndo contra o tempo pois seu objetivo é fugir das consequências do aquecimento global que estão acontecendo gradativamente no planeta. Pingu passa por quatro cenários que exemplificam as fases do efeito estufa no planeta, sendo a primeira na Antártida, a segunda em um ambiente florestal, a terceira em uma metrópole e por fim, a quarta um cenário que  está em ruínas.
 
    O primeiro cenário implica diretamente no derretimento das calotas polares. O segundo, o bosque, mostra Pingu um novo horizonte, distante da sua realidade gelada que agora não passa de uma lembrança. No terceiro cenário foram surgindo as grandes metrópoles e Pingu começa a lidar com o cotidiano dos humanos, seja correndo para o trabalho ou fazendo uma corridinha matinal. Por fim, Pingu se encontra no mundo em que não tem mais volta, quando o Climate Clock chega a zero.
 
